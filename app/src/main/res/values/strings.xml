@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">twitter_timeline_test</string>
+    <string name="title_activity_call_back">CallBackActivity</string>
+</resources>
